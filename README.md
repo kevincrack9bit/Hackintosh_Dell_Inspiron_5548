@@ -1,5 +1,5 @@
 # Dell Inspiron 5548 for macOS Monterey 12.6.2
-
+====
 This is the OpenCore 0.8.7 boot file for my Dell Inspiron 5548, other models please test yourself
 
 Computer Configuration
