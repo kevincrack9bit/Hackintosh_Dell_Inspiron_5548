@@ -1,9 +1,9 @@
 # Dell Inspiron 5548 for macOS Monterey 12.6.2
-====
-This is the OpenCore 0.8.7 boot file for my Dell Inspiron 5548, other models please test yourself
+### OpenCore 0.8.7 [Based on the Dortaia Guide]
+##### This is the OpenCore 0.8.7 boot file for my Dell Inspiron 5548, other models please test yourself
 
-Computer Configuration
-
+### Computer Configuration
+~~~
 Specifications Details
 Computer model Dell Inspiron 5548 laptop
 Operating system macOS Monterey 12.6.2
@@ -21,4 +21,4 @@ efi-broadcom for dw1820a driver
 efi-intel is the Intel wireless driver
 
 Intel wireless card driver is not yet self-tested, please feedback if you have any questions
-
+~~~
